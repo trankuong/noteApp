@@ -1,1 +1,1 @@
-"Simple note app using angularjs. Followed fromguide by Sandeep Panda" 
+"Simple note app using angularjs. Followed from guide by Sandeep Panda" 
