@@ -46,7 +46,7 @@ app.directive('notepad', function(notesFactory) {
 				scope.noteText = editor.text().trim();
 			});
 		},
-		templateUrl: 'templateUrl.html'
+		templateUrl: "templateUrl.html"
 	};
 });
 
